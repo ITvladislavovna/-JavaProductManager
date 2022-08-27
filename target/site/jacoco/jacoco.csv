@@ -1,0 +1,6 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+javaqamvn,default,Book,7,9,0,0,3,3,2,1,2,1
+javaqamvn,default,ProductRepository,0,83,0,6,0,17,0,7,0,4
+javaqamvn,default,ProductManager,0,77,0,8,0,17,0,8,0,4
+javaqamvn,default,Product,15,18,0,0,7,7,4,3,4,3
+javaqamvn,default,Smartphone,7,9,0,0,3,3,2,1,2,1
